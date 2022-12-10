@@ -1,9 +1,12 @@
 #include <stdio.h>
 /*
  * main - The entry point of C programs
- * @void: The function takes no parameters
+ *
+ * Description: The function "main" takes no parameters
+ *
  * Description: The function "puts" writes to stdout.
- * Return:Always0
+ *
+ * Return:Always 0 (sucess)
  */
 int main(void)
 {
