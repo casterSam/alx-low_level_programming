@@ -1,14 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-
-
-
-int main(void)
-
-{
-
-    gcc -S $CFILE
-
-    return (0);
-
-}
+gcc -S $CFILE
