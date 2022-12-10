@@ -1,17 +1,18 @@
 #include <stdio.h>
-
 /**
  *
- *  * main - Entry point
+ *   * main - The entry point of C programs
  *
- *   *
+ *     * @void: The function takes no parameters
  *
- *    * Return: Always 0 (Success)
+ *       *
  *
- *     */
-
+ *         * Description: The function "puts" writes to stdout.
+ *
+ *           * Return: 0
+ *
+ *             */
 int main(void)
-
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
