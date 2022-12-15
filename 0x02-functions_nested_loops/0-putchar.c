@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * main -start of the program
- * Declaration: function maints prints _putchar
+ * Declaration: function main prints _putchar
+ * Return: 0
  */
 int main(void)
 {
