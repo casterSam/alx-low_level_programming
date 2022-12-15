@@ -2,7 +2,7 @@
 /**
  *  _islower - The entry point of the function
  *  description: _islower function  checks for lowercase character.
- *  parameter 'c'in function _islower is integer type
+ *  @c: The character to be checked
  *  Return: islower_n value
  */
 int _islower(int c)
