@@ -43,9 +43,9 @@ void times_table(void)
 					_putchar((result % 10) + '0');
 				}
 			}
-			secondnum++;
+			num_b++;
 		}
-		firstnum++;
+		num_a++;
 		_putchar('\n')
 	}
 }
