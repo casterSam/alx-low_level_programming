@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * void takes no parameters
  * Description:  This function prints lowercase alphabet
