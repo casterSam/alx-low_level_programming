@@ -9,6 +9,7 @@ int _isalpha(int c)
 {
 	char lowercase_a, uppercase_a;
 	int isletter_n = 0;
+
 	lowercase_a = 'a';
 
 	while (lowercase_a <= 'z')
