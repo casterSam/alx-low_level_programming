@@ -46,6 +46,6 @@ void times_table(void)
 			num_b++;
 		}
 		num_a++;
-		_putchar('\n')
+		_putchar('\n');
 	}
 }
