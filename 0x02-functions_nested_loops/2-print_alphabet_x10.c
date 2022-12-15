@@ -12,8 +12,8 @@ void print_alphabet_x10(void)
 	loopcount= 0;
 	while (loopcount < 10)
 	{
-		lowercase_alpha = 'a';
-		while (lowercase_alpha <= 'z')
+		lowercase_alphabet = 'a';
+		while (lowercase_alphabet <= 'z')
 		{
 		_putchar(lowercase_alphabet);
 		lowercase_alphabet++;
