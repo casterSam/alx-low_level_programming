@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * jack_bauer -unction entry
- * @void: The function takes no parameters
- * Description:jack_bauer function that prints every minute of the day 
+ * @void: The function takes no parameter
+ * Description:jack_bauer function that prints every minute
  */
 void jack_bauer(void)
 {
