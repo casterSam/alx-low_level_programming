@@ -9,8 +9,8 @@ void print_alphabet_x10(void)
 {
 	int loopcount;
 	char lowercase_alphabet;
-	
 	loopcount = 0;
+
 	while (loopcount < 10)
 	{
 		lowercase_alphabet = 'a';
