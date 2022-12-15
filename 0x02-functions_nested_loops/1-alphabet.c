@@ -4,7 +4,7 @@
  * Description:  This function prints lowercase alphabet
  * Return: Always 0.
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char lowercase_alphabet='a';
 		while (lowercase_alphabet <= 'z')
