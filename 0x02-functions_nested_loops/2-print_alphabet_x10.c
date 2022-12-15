@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * void - starts the program
- * description: print_alphabet_x10 function prints 10 times the alphabet, in lowercase, followed by a new line.
- * de
+ * description: print_alphabet_x10 function prints 10 times the alphabet
+ * Description: function print_alphabet_x10 prints 10 times the alphabet
  * Return: 0
  */
 void print_alphabet_x10(void)
@@ -10,6 +10,7 @@ void print_alphabet_x10(void)
 	int loopcount;
 	char lowercase_alphabet;
 	loopcount = 0;
+
 	while (loopcount < 10)
 	{
 		lowercase_alphabet = 'a';
