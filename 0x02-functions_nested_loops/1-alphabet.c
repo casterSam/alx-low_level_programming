@@ -1,16 +1,16 @@
 include "main.h"
 /**
- * main -start of the program
+ * void takes no parameters
  * Description:  This function prints lowercase alphabet
  * Return: Always 0.
  */
-int main(void)
+void print_alphabet(void);
 {
 	char lowercase_alphabet='a'
 		while (lowercase_alphabet <= 'z')
 		{
 			_putchar(lowercase_alphabet);
-			return (0);
+			lowercase_alphabet++;
 		}
 	_putchar('\n');
 		
