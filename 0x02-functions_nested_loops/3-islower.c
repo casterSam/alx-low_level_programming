@@ -16,5 +16,4 @@ int _islower(int c)
 		lowercase_alphabet++;
 	}
 	return (islower_n);
-	}
 }
