@@ -1,14 +1,14 @@
 #include "main.h"
 /**
- * print_numbers - tHIS FUNCTIONS PRINTS 0-9
+ * print_numbers - print the numbers 0 to 9
+ * followed by new line
  * Return: Always 0
  */
-int _putchar();
 void print_numbers(void)
 {
-	int s = '0';
+	int i = '0';
 
-	for (; s <= '9'; s++)
-		_putchar(s);
+	for (; i <= '9'; i++)
+		_putchar(i);
 	_putchar('\n');
 }
