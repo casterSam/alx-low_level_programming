@@ -2,7 +2,7 @@
 /**
  * _isdigit - This function checks for a digit 0 throogh 9
  * @a: An input integer
- * return: isdigit if "a" is a digit (0 through 9)
+ * Return: 1 if a is a digit (0 through 9)
  */
 int _isdigit(int a)
 {
