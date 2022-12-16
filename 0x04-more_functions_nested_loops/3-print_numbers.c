@@ -3,6 +3,7 @@
  * print_numbers - tHIS FUNCTIONS PRINTS 0-9
  * Return: Always 0
  */
+int _putchar();
 void print_numbers(void)
 {
 	int s = '0';
