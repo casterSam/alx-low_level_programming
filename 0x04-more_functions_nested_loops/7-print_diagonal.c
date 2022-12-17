@@ -1,8 +1,7 @@
 #include "main.h"
-/**
- * print_diagonal - This function prints a diagnol line 
+/***print_diagonal - This function prints a diagnol line
  * @s: An input integer
- * Return: Always 0
+ * Return: Always 0.
  */
 void print_diagonal(int s)
 {
